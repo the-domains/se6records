@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[SinceEighty6]]></title>
+        <description><![CDATA[SinceEighty6]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 17 Aug 2016 17:14:32 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Welcome to the official test site of SinceEighty6 Records. Home of artists Camp Lo, Tharius Moore, DJ Mark DiVita and</p>]]></description>
+            <link>undefinedwelcome-to-the-official-test-site-of-sinceeighty6-records-h/index.html</link>
+            <guid isPermaLink="false">6da00935-9610-464f-9c0b-9a518361e1f8</guid>
+            <pubDate>Wed, 17 Aug 2016 17:14:31 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
