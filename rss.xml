@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[SinceEighty6]]></title>
         <description><![CDATA[SinceEighty6]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/se6records/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 17:14:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 17 Aug 2016 17:16:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/se6records/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Welcome to the official test site of SinceEighty6 Records. Home of artists Camp Lo, Tharius Moore, DJ Mark DiVita and</p>]]></description>
-            <link>undefinedwelcome-to-the-official-test-site-of-sinceeighty6-records-h/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9342fdb3-6c64-446b-8621-24735c5b85c1.jpg">]]></description>
+            <link>https://thegrid.ai/se6records/welcome-to-the-official-test-site-of-sinceeighty6-records-h/index.html</link>
             <guid isPermaLink="false">6da00935-9610-464f-9c0b-9a518361e1f8</guid>
-            <pubDate>Wed, 17 Aug 2016 17:14:31 GMT</pubDate>
+            <pubDate>Wed, 17 Aug 2016 17:15:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
